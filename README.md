@@ -1,2 +1,4 @@
-adminLTE 4.0.0 beta3
-boostrap 5.3.3
+Template Django with :
+
+- adminLTE 4.0.0 beta3 &
+- boostrap 5.3.3
